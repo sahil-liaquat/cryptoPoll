@@ -1,2 +1,2 @@
-# CryptoBallot
+# cryptoPoll
 Online Voting System Using Blockchain
