@@ -1,2 +1,2 @@
 ![Intro](/intro_cryptoPOLL.gif)
-# cryptoPoll(Online Voting System Using Blockchain!)
+# cryptoPoll (Online Voting System Using Blockchain!)
